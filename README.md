@@ -1,5 +1,6 @@
 # A-star-algorithm-using-Python
-An implementation of A* algorithm using python
+
+An implementation of A* algorithm for blocked path using python with GUI. 
 
 For more information about algorithm see these websites:
 
